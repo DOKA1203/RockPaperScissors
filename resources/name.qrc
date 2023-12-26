@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="images">
+    <file>images/NAME_UI.png</file>
+  </qresource>
+</RCC>
