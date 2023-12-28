@@ -2,16 +2,12 @@
 import json
 import time
 
-import requests
 from PyQt5 import QtWidgets, uic
 import sys
 import cv2
 from PyQt5.QtCore import QTimer
 from PyQt5.QtGui import QPixmap, QImage
 from cvzone.HandTrackingModule import HandDetector
-
-import multiprocessing
-from playsound import playsound
 
 import resources.name_rc
 import resources.form_rc
